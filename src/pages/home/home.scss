@@ -1,3 +1,13 @@
 page-home {
+    ion-content {
+        background-image: url('../../assets/images/home_back.jpg');
+        background-size: cover;
+        text-align: center;
+    }
 
+    img {
+        margin-top: 80px;
+        width: 200px;
+        margin-bottom: 20px;
+    }
 }
